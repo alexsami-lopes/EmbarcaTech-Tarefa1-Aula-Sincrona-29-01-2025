@@ -110,7 +110,7 @@ Siga os passos abaixo para clonar o repositório, importar no VS Code usando a e
 
 ## 🎥 Demonstração na Placa (Video): 
 
-### As cores não equivalem às cores do semáforo na placa, pois a gpios sugeridas na tarefa não tem números equivalentes ao RGB da placa, no entanto, preferiu-se seguir à risca as instruções da tarefa.
+### As cores não equivalem às cores do semáforo na placa, pois as gpios sugeridas na tarefa não tem números equivalentes ao RGB da placa, no entanto, preferiu-se seguir à risca as instruções da tarefa.
 
 <div align="center">
   <a href="https://youtu.be/pCgZTF2CAyA" target="_blank">
