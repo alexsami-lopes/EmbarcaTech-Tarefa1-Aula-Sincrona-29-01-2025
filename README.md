@@ -1,7 +1,6 @@
-Configura o temporizador de hardware para chamar a função de callback a cada 1 segundo.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFD95F&height=120&section=header"/>
-<h1 align="center">Embarcatec | Tarefa Aula Sincrona 27/01/2025</h1>
+<h1 align="center">Embarcatec | Tarefa 1 Aula Sincrona 29/01/2025</h1>
 
 <div align="center">  
   <img width=40% src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=FFD95F&style=for-the-badge"/>
