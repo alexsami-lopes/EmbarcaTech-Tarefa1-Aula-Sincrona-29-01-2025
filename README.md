@@ -8,7 +8,7 @@
 
 ## Objetivo do Projeto
 
-Usando o Microcontrolador Raspberry Pi Pico W ao empregar a função add_repeating_timer_ms(), presente na ferramenta Pico SDK, foi projetado um semáforo com temporização de 3 segundos para cada alte…
+Usando o Microcontrolador Raspberry Pi Pico W ao empregar a função add_repeating_timer_ms(), presente na ferramenta Pico SDK, foi projetado um semáforo com temporização de 3 segundos para cada alteração de sinal.
 
 ## 🗒️ Lista de requisitos
 
@@ -74,7 +74,7 @@ Siga os passos abaixo para clonar o repositório, importar no VS Code usando a e
 
 <div align="center">
   <figure>  
-    <img src="images/Demo_Wokwi.png" width="500px">
+    <img src="images/Figura_1.png" width="500px">
     
 <figcaption>
 
@@ -110,8 +110,10 @@ Siga os passos abaixo para clonar o repositório, importar no VS Code usando a e
 
 ## 🎥 Demonstração na Placa (Video): 
 
+### As cores não equivalem às cores do semáforo na placa, pois a gpios sugeridas na tarefa não tem números equivalentes ao RGB da placa, no entanto, preferiu-se seguir à risca as instruções da tarefa.
+
 <div align="center">
-  <a href="" target="_blank">
+  <a href="https://youtu.be/pCgZTF2CAyA" target="_blank">
     <img src="images/Demo_Placa_Video.png" width="500px">
   </a>
 </div>
